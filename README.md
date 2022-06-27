@@ -6,7 +6,7 @@
 
 ### <font color=navy>My Education/Experince Footprint</font> 
 <table><tr><th><b>Taiyuan</b></th><th style="border: none;">---></th><th><b>Tianjin</b></th><th style="border: none;">---></th><th><b>Taiyuan</b></th><th style="border: none;">---></th><th><b>Xi'an</b></th></tr></table>  
-###     eyes closed in all gratuation photos  
+### eyes closed in all gratuation photos   
   
 ![image](images/graduation.png)
   
