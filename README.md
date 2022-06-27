@@ -1,16 +1,13 @@
-### Hi there 👋
+# Welcome to Li-Qingxiang's Org #
+---
+### Hello, everyone ~  ![image](images/earth.png)
 
-<!--
-**LeeGungun/LeeGungun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I bring a little  "<u>_Blue_</u>" front of you in this hot summer —— you bet, one of labels at me is ——<font color=#3399ff> slow-to-warm </font>
 
-Here are some ideas to get you started:
+### <font color=navy>My Education/Experince Footprint</font>
+<table><tr><th><b>Taiyuan</b></th><th style="border: none;">---></th><th><b>Tianjin</b></th><th style="border: none;">---></th><th><b>Taiyuan</b></th><th style="border: none;">---></th><th><b>Xi'an</b></th></tr></table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+####eyes closed in all gratuation photos ![image](images/dog_head.png)  ![image](images/graduation.png)
+  
+
