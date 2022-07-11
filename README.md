@@ -7,6 +7,10 @@
 <h3><span style="color:navy">My Education/Experience Footprint</span></h3> 
 <table><tr><th><b>Taiyuan</b></th><th style="border: none;">---></th><th><b>Tianjin</b></th><th style="border: none;">---></th><th><b>Taiyuan</b></th><th style="border: none;">---></th><th><b>Xi'an</b></th></tr></table>  
 
+| $\color{red}{origin}$ | $\color{blue}{settled}$ |
+| :----------: | :----------: |
+| $\colorbox{yellow}{**day01-05**}$ | __day01-05__ |
+
 ### eyes closed in all gratuation photos  ![image](images/dog_head.png)   
   
 ![image](images/graduation.png)
