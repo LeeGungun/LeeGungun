@@ -7,9 +7,9 @@
 <h3><span style="color:navy">My Education/Experience Footprint</span></h3> 
 <table><tr><th><b>Taiyuan</b></th><th style="border: none;">---></th><th><b>Tianjin</b></th><th style="border: none;">---></th><th><b>Taiyuan</b></th><th style="border: none;">---></th><th><b>Xi'an</b></th></tr></table>  
 
-| $\color{red}{origin}$ | $\color{blue}{settled}$ |
-| :----------: | :----------: |
-| $\colorbox{yellow}{**day01-05**}$ | __day01-05__ |
+| *__$\color{red}{Origin}$__* | *__$\color{blue}{Settled}$__* |
+|---------- |---------- |
+| __$\colorbox{rgb{255,228,225}}{day01-05}$__ |__$\colorbox{rgb{175,238,238}}{day01-05}$__ |
 
 ### eyes closed in all gratuation photos  ![image](images/dog_head.png)   
   
